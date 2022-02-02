@@ -20,4 +20,6 @@ SLIMSHADER is a Eurorack format design with HDMI and Analog video output for peo
 <br>(c) Please note that the SLIMSHADER Raspberry PI image file comes with hundreds of shader files. Credits go out to all the makers of these shaders; their names can often be found in the header of the shader file itself.
 <br>(d) Complicated shaders typically require much more CPU/GPU power and a Raspberry PI is not always able to deliver unfortunately - please keep that in mind.
 
-Please make sure to check out the design's full description: <a href="https://www.erikoostveen.co.uk/Slimshader.html" target="_blank">Slimshader Description</a> 
+Please make sure to check out the design's full description on my website: <a href="https://www.erikoostveen.co.uk/Slimshader.html" target="_blank">Slimshader Description</a> 
+
+Cheers! Erik
