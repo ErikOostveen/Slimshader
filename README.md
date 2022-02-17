@@ -22,6 +22,6 @@ SLIMSHADER is a Eurorack format design with HDMI and Analog video output for peo
 
 Please make sure to check out the design's full description on my website: <a href="https://www.erikoostveen.co.uk/Slimshader.html" target="_blank">Slimshader Description</a> 
 
-<img src="https://www.erikoostveen.co.uk/assets/img/Slimshader/GoogleDrive.png" width="55px"> Download the latest Slimshader Raspberr PI image file from <a href="https://drive.google.com/open?id=1KHu7PUzum56piUTjFtTS98Mjdbm1r-Ja&authuser=erikoostveen5%40gmail.com&usp=drive_fs" target="_blank">Google Drive</a>. You'll need a 16GB Micro SD card.
+<img src="https://www.erikoostveen.co.uk/assets/img/Slimshader/GoogleDrive.png" width="12px"> Download the latest Slimshader Raspberr PI image file from <a href="https://drive.google.com/open?id=1KHu7PUzum56piUTjFtTS98Mjdbm1r-Ja&authuser=erikoostveen5%40gmail.com&usp=drive_fs" target="_blank">Google Drive</a>. You'll need a 16GB Micro SD card.
 
 Cheers! Erik
