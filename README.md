@@ -1,5 +1,7 @@
 # Slimshader
 
+- see also <a href="https://www.tomshardware.com/news/raspberry-pi-slimshader" target="_blank">Tom's Hardware review</a>
+
 ![Dimensions Module](https://www.erikoostveen.co.uk/assets/img/portfolio/item-2-github.jpg)
 
 SLIMSHADER is an Open Source Raspberry PI(a) project based on glslViewer(b) and capable of displaying plain images and OpenGL/GLSL shader files.
