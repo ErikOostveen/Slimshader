@@ -44,8 +44,12 @@ ID,Name,Designator,Footprint,Quantity,Manufacturer Part,Manufacturer,Supplier,Su
 43,BZX55C3V3,"ZD1,ZD2,ZD3,ZD4,ZD5",DO-35_BD2.0-L4.0-P8.00-D0.5-FD,5,BZX55C3V3,SEMTECH,LCSC,C2507,0.018,625-BZX55C3V3,,
 44,NE5532P,U2,DIP-8_L9.4-W6.4-P2.54-LS9.1-BL,1,NE5532P,TI,LCSC,C5326,0.797,595-NE5532P,,
 45,Header-Male-2.54_1x10,"P6,P7",HDR-10X1/2.54,2,Headers  Pins2.54mm1*10P,ReliaPro,LCSC,C57369,0.05,,,Amazon - Header Kit
-46,BNC Connector,,,,,,,,,798-BNC-FBR41,,
-47,HDMI & USB Connector,,,,,,,,,,,https://www.amazon.com/dp/B0BHSZ2JW6
-48,Micro HDMI to HDMI,,,,,,,,,,,Amazon
-49,Raspberry Pi,,,,,,,,,,,
-50,MicroSD Card,,,,,,,,,,,
+46,BNC Connector,,,1,,,,,,798-BNC-FBR41,,
+47,HDMI & USB Connector,,,1,,,,,,,,https://www.amazon.com/dp/B0BHSZ2JW6
+48,Micro HDMI to HDMI,,,1,,,,,,,,Amazon
+49,Raspberry Pi,,,1,,,,,,,,
+50,MicroSD Card,,,1,,,,,,,,
+51,IC Socket 8POS,,CONN IC DIP SOCKET 8POS TIN,2,,,,,,,AE9986-ND,
+52,IC Socket 14POS,,CONN IC DIP SOCKET 14POS TIN,1,,,,,,,AE9989-ND,
+53,IC Socket 16POS,,CONN IC DIP SOCKET 16POS TIN,1,,,,,,,AE9992-ND,
+54,IC Socket 18POS,,CONN IC DIP SOCKET 18POS TIN,1,,,,,,,AE9995-ND,
